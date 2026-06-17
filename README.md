@@ -7,4 +7,5 @@ This repo hold some resources from the game.
 ## Cover
 
 ![Just. Press. The. Button. - Cover](JustPressTheButton_Cover.png)
+
 Source: [Just. Press. The. Button. - Cover](JustPressTheButton_Cover.svg)
